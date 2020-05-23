@@ -1,5 +1,5 @@
 # Encrypt-Decrypt-Files-Text
-Decidir criar esse script enquanto estava lendo a Axur05 uma eziner escrita entre 1996/1997
+Decidi criar esse script enquanto estava lendo a Axur05 uma eziner escrita entre 1996/1997
 
 
 
