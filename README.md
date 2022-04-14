@@ -32,3 +32,7 @@ Decidi criar esse script enquanto estava lendo a Axur05 uma eziner escrita entre
 | X | M |
 | Y | V |
 | Z | F |
+
+# Repositório Arquivado
+
+Esse repositório era um *fork* antes do [proprietário do repositório original](https://github.com/KriptonWave) ter, possivelmente, apagado sua conta no GitHub e está sendo arquivado porque não é mais de meu interesse alterá-lo. Fiz o *fork* apenas adaptando a tabela logo acima para *markdown*, ficando mais agradável para leitura.
